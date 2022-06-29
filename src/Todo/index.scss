@@ -1,0 +1,15 @@
+.todo__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: .5rem;
+}
+.todo__input {
+    margin-right: 1rem,
+}
+.add__todo--form {
+    margin-bottom: 2rem;
+}
